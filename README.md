@@ -163,6 +163,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 ### Trading & Investment
 - **[TradingView AI](https://www.tradingview.com/)** ⭐⭐⭐⭐ - AI-powered chart pattern recognition.
 - **[Composer](https://www.composer.trade/)** ⭐⭐⭐⭐ - No-code algorithmic trading platform.
+- **[ChartScout](https://chartscout.com/)** ⭐⭐⭐⭐ - Detects patterns instantly and alerts you in under 20 seconds with AI. `Free + Paid`
 
 ### Accounting & Bookkeeping
 - **[QuickBooks AI](https://quickbooks.intuit.com/)** ⭐⭐⭐⭐ - AI-powered accounting assistant.
