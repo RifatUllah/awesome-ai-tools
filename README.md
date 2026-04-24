@@ -126,6 +126,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 - **[Taskade](https://www.taskade.com/)** ⭐⭐⭐⭐ - AI-powered tasks, notes, and workflows. `Free + Paid`
 - **[ClickUp AI](https://clickup.com/ai)** ⭐⭐⭐⭐ - Project management with AI writing assistant.
 - **[Motion](https://www.usemotion.com/)** ⭐⭐⭐⭐ - AI-powered calendar and task scheduler. `$34/month`
+- **[MindMap AI](https://mindmapai.app/ai-mindmap-maker)** ⭐⭐⭐⭐ - Visual AI tool for organizing ideas, planning content, and transforming text, PDFs, and research into structured mind maps for productivity and learning. `Free + Paid`
 
 ### Meeting & Communication
 - **[Otter.ai](https://otter.ai/)** ⭐⭐⭐⭐⭐ - Real-time meeting transcription. Excellent accuracy. `Free + Paid`
