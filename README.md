@@ -91,6 +91,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 - **[Stable Diffusion](https://stability.ai/)** ⭐⭐⭐⭐ - Open-source image generation. Run locally. `Free`
 - **[Leonardo.AI](https://leonardo.ai/)** ⭐⭐⭐⭐ - Game assets and consistent characters. `Free + Paid`
 - **[Playground AI](https://playgroundai.com/)** ⭐⭐⭐ - Free daily credits for image generation.
+- **[LandscapioAI](https://www.landscapioai.com/)** ⭐⭐⭐⭐ - Turn garden and yard photos into realistic AI landscape design ideas, planting concepts, and rough cost estimates. `Free + Paid`
 
 ### Video & Animation
 - **[Runway](https://runwayml.com/)** ⭐⭐⭐⭐⭐ - AI video editing and generation. Text-to-video.
