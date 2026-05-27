@@ -85,6 +85,9 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 - **[Visily](https://www.visily.ai/)** ⭐⭐⭐ - Screenshot to editable design. Fast prototyping.
 - **[Framer AI](https://www.framer.com/ai)** ⭐⭐⭐⭐ - Generate websites with AI, then customize.
 
+### Photo Enhancement & Restoration
+- **[PhotoRestore.ai](https://photorestore.ai/)** ⭐⭐⭐⭐ - AI-powered old photo restoration. Repairs scratches, fading, tears, and colorizes B&W photos. `Free trial`
+
 ### Image Generation
 - **[Midjourney](https://midjourney.com/)** ⭐⭐⭐⭐⭐ - Highest quality AI images. Best for creative work. `$10+/month`
 - **[DALL-E 3](https://openai.com/dall-e-3)** ⭐⭐⭐⭐ - Excellent image generation via ChatGPT Plus.
