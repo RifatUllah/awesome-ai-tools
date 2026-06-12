@@ -112,6 +112,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 - **[Jasper](https://www.jasper.ai/)** ⭐⭐⭐⭐ - Marketing content at scale. Templates for everything. `$49+/month`
 - **[Copy.ai](https://www.copy.ai/)** ⭐⭐⭐⭐ - Marketing copy generator. Blog posts, ads, social media. `Free + Paid`
 - **[Writesonic](https://writesonic.com/)** ⭐⭐⭐ - SEO-optimized content generation.
+- **[CreatorSkills](https://creatorskills.co/)** ⭐⭐⭐⭐ - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT. `Paid`
 
 ### SEO & Marketing
 - **[Surfer SEO](https://surferseo.com/)** ⭐⭐⭐⭐ - AI content optimization for search rankings.
