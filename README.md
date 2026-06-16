@@ -91,6 +91,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 - **[Stable Diffusion](https://stability.ai/)** ⭐⭐⭐⭐ - Open-source image generation. Run locally. `Free`
 - **[Leonardo.AI](https://leonardo.ai/)** ⭐⭐⭐⭐ - Game assets and consistent characters. `Free + Paid`
 - **[Playground AI](https://playgroundai.com/)** ⭐⭐⭐ - Free daily credits for image generation.
+- **[Seedream AI Studio](https://seedream4.video/)** ⭐⭐⭐⭐⭐ - Multi-model AI image generation by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena. Supports 10 reference images + video generation. `Free + Paid`
 
 ### Video & Animation
 - **[Runway](https://runwayml.com/)** ⭐⭐⭐⭐⭐ - AI video editing and generation. Text-to-video.
