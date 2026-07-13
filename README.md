@@ -94,6 +94,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 
 ### Video & Animation
 - **[Runway](https://runwayml.com/)** ⭐⭐⭐⭐⭐ - AI video editing and generation. Text-to-video.
+- **[ImagineClip](https://imagineclip.com/video-effects)** ⭐⭐⭐ - AI video creation and creative visual effects for short-form clips. `Free + Paid`
 - **[Synthesia](https://www.synthesia.io/)** ⭐⭐⭐⭐ - AI video avatars. Create videos without filming.
 - **[Descript](https://www.descript.com/)** ⭐⭐⭐⭐⭐ - Edit video by editing text. Remove filler words automatically.
 
