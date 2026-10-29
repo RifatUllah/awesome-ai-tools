@@ -123,6 +123,7 @@ In 2025, **AI isn't just a tool—it's your competitive advantage.** While other
 
 ### Task & Project Management
 - **[Notion AI](https://www.notion.so/product/ai)** ⭐⭐⭐⭐⭐ - All-in-one workspace with AI. Great for project planning and documentation.
+- **[JobEmerge](https://www.jobemerge.work/)** - Job-fit checks, resume editing and translation, application tracking, and text mock interviews. `Free + Paid`
 - **[Taskade](https://www.taskade.com/)** ⭐⭐⭐⭐ - AI-powered tasks, notes, and workflows. `Free + Paid`
 - **[ClickUp AI](https://clickup.com/ai)** ⭐⭐⭐⭐ - Project management with AI writing assistant.
 - **[Motion](https://www.usemotion.com/)** ⭐⭐⭐⭐ - AI-powered calendar and task scheduler. `$34/month`
